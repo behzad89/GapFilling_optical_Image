@@ -1,3 +1,4 @@
+[![badge text](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvsh/)
 # Gapfilling of Optical Images (Sentinel-2)
 
 ![image](https://user-images.githubusercontent.com/47195556/188323079-84ef1795-e952-4c63-af7b-6453585059e4.png)
